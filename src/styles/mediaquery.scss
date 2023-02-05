@@ -2,11 +2,9 @@
     .cart {
       grid-template-columns: 1fr;
       > aside {
-        height: 25vh;
         padding: 2rem;
         border-radius: 0%;
-        position: fixed;
-        bottom: 0px;
+       
         > h2 {
           margin: 8px;
           font: 100 1.2rem "Roboto";
